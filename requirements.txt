@@ -1,0 +1,5 @@
+streamlit
+pyspark
+newsapi-python
+matplotlib
+pandas
